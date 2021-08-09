@@ -15,6 +15,9 @@ public:
     explicit MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+public slots:
+    void font_show();
+
 private:
     Ui::MainWindow *ui;
 };
