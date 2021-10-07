@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/image/MySvg.svg</file>
+		<file>res/image/arrow_svg.svg</file>
+		<file>res/image/line_svg.svg</file>
+		<file>res/image/rect_svg.svg</file>
+		<file>res/image/ellipse_svg.svg</file>
+		<file>res/image/clear_svg.svg</file>
+    </qresource>
+</RCC>
